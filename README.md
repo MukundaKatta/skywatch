@@ -83,6 +83,3 @@ skywatch/
 └── package.json
 ```
 
-## License
-
-MIT
