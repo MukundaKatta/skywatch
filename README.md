@@ -2,7 +2,7 @@
 
 **Live:** <https://mukundakatta.github.io/skywatch/>
 
-AI autonomous drone operations and fleet management platform. skywatch gives you a focused, inspectable implementation of that idea.
+AI autonomous drone operations and fleet management platform.
 
 ## Why skywatch
 
